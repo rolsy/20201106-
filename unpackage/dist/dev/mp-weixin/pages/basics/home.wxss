@@ -1,0 +1,104 @@
+
+.padding-rolsy_sm {
+	padding: 15rpx;
+}
+.nav-li {
+	margin-top: -35rpx;
+}
+ .bg-white {
+	background-color: #FFFFFF;
+}
+.rolsy-fontsize-075 {
+	width: 100%;
+}
+.nav-title {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+	min-height: 2.8rem;
+}
+
+/* .swiper-item image {
+	height: 100%;
+} */
+.action {
+	height: 78rpx;
+	padding: 25rpx;
+}
+.page {
+	height: 100vh;
+}
+.text-rolsy {
+	color: #FFCE42;
+}
+.rolsy-3text {
+	font-size: 1rem;
+	text-align: center;
+	/* margin-top: 1rem; */
+}
+.rolsy-ml {
+	margin-left: 10rem;
+}
+.rolsy-ml2 {
+	margin-left: 9rem;
+}
+.rolsy-ml3 {
+	margin-left: 9.5rem;
+}
+.rolsy-colorg {
+	color: #C8C8C8;
+}
+.rolsy-fontsize-075 {
+	font-size: .75rem;
+	margin-left: 15rpx;
+	margin-bottom: 40rpx;
+}
+.rolsy-font-bg::before {
+	content: "";
+	position: absolute;
+	display: block;
+	width: 100rpx;
+	height: 8px;
+	background: #FFCE42;
+	opacity: 0.8;
+	top: 50rpx;
+	z-index: -999;
+}
+.rolsy-font-bg2::before {
+	content: "";
+	position: absolute;
+	display: block;
+	width: 100rpx;
+	height: 8px;
+	background: #FFCE42;
+	opacity: 0.8;
+	top: 50rpx;
+	z-index: -999;
+}
+.rolsy-font-bg3::before {
+	content: "";
+	position: absolute;
+	display: block;
+	width: 115rpx;
+	height: 8px;
+	background: #FFCE42;
+	opacity: 0.8;
+	top: 50rpx;
+	z-index: -999;
+}
+.rolsy-delete {
+	text-decoration: line-through;
+	color: #C8C8C8;
+	margin-left: 1rem;
+}
+.rolsy-gift-img {
+	border-top-left-radius: 15rpx;
+	border-top-right-radius: 15rpx;
+}
+.rolsy-gift-content {
+	margin-top: -5rpx;
+	border-bottom-left-radius: 15rpx;
+	border-bottom-right-radius: 15rpx;
+}
+

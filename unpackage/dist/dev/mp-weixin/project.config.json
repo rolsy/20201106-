@@ -1,0 +1,41 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "",
+	"appid": "wx092f1e2d89375505",
+	"projectname": "阳光酒店食堂",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"name": "主页",
+					"query": "",
+					"id": 0,
+					"pathName": "pages/basics/home"
+				}
+			]
+		}
+	}
+}

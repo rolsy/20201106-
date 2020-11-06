@@ -1,0 +1,11 @@
+
+.page {
+	height: 92vh;
+}
+.rolsy-top {
+	margin-top: 40rpx;
+}
+.rolsy-bottom {
+	margin-bottom: 10rpx;
+}
+

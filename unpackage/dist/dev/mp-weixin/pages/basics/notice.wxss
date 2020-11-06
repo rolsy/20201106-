@@ -1,0 +1,21 @@
+
+.page {
+	height: 92vh;
+}
+.rolsy-content {
+	margin-top: 30rpx;
+}
+.rolsy-footer::before {
+	content: "";
+	position: relative;
+	display: block;
+	width: 85%;
+	height: 1px;
+	background: #C8C8C8;
+	top: 0rpx;
+	margin-bottom: 40rpx;
+}
+.rolsy-footer {
+	margin-top: 50rpx;
+}
+

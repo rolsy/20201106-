@@ -1,0 +1,162 @@
+
+.rolsy-bg {
+	height: 90vh;
+	overflow-y: hidden;
+}
+.already-image {
+	width: 17%;
+	position: absolute;
+	right: -10rpx;
+	top: -18rpx;
+}
+
+/* 
+.bg-white {
+	background-color: #ffce42;
+
+} */
+.cu-modal {
+	text-align: center;
+}
+.page {
+	height: 92vh;
+}
+.rolsy-bg {
+	background-image: url('https://7961-yangguang-089kj-1303115238.tcb.qcloud.la/top.png?sign=23cc502140fc4f91ddddea0dd4a8fd15&t=1599635567');
+	background-size: 100%;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.rolsy-border {
+	border: 2px solid #FFFFFF;
+	margin-right: 70rpx;
+	margin-top: 25rpx;
+}
+
+/* 图标字 */
+@font-face {
+	font-family: 'iconfont';
+	/* project id 2004236 */
+	src: url('//at.alicdn.com/t/font_2004236_e5u8xq45yz7.eot');
+	src: url('//at.alicdn.com/t/font_2004236_e5u8xq45yz7.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/font_2004236_e5u8xq45yz7.woff2') format('woff2'),
+		url('//at.alicdn.com/t/font_2004236_e5u8xq45yz7.woff') format('woff'),
+		url('//at.alicdn.com/t/font_2004236_e5u8xq45yz7.ttf') format('truetype'),
+		url('//at.alicdn.com/t/font_2004236_e5u8xq45yz7.svg#iconfont') format('svg');
+}
+.iconfont {
+	font-family: "iconfont" !important;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke-width: 0.2px;
+	-moz-osx-font-smoothing: grayscale;
+	font-weight: 100;
+	display: inline-block !important;
+}
+.rolsy-border2 {
+	border: 1px solid #ffffff;
+	width: 30%;
+	padding: 10rpx 30rpx;
+	border-radius: 25rpx;
+	position: relative;
+	left: -5rpx;
+}
+.rolsy-bg-color {
+	background-color: #FFCE43;
+	border-top-left-radius: 50rpx;
+	border-bottom-left-radius: 50rpx;
+}
+.rolsy-ba::before {
+	content: "";
+	position: absolute;
+	background: #FFCE42;
+	color: #FFCE42;
+	border-radius: 20rpx;
+	border: 3px solid #FFCE42;
+	left: 280rpx;
+	margin-top: 15rpx;
+}
+.rolsy-ba::after {
+	content: "";
+	position: absolute;
+	background: #FFCE42;
+	color: #FFCE42;
+	border-radius: 20rpx;
+	border: 3px solid #FFCE42;
+	left: 460rpx;
+	margin-top: 15rpx;
+}
+.rolsy-ba {
+	text-align: center;
+}
+.rolsy-gift-img {
+	width: 40%;
+}
+.text-rolsy {
+	color: #FE6B45;
+}
+.rolsy-delete {
+	text-decoration: line-through;
+	color: #C8C8C8;
+	margin-left: 1rem;
+}
+.rolsy-dis {
+	display: inline-block !important;
+}
+.rolsy-gift-right {
+	width: 50%;
+}
+.rolsy-text-wrap {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+	min-height: 2.8rem;
+}
+.bg-rolsy {
+	background-color: #EEEEEE;
+	border-radius: 35rpx;
+	padding-left: 35rpx;
+	padding-right: 35rpx;
+	margin-top: 20rpx;
+}
+.rolsy-gift-right2 {
+	width: 5%;
+	position: relative;
+	top: 90rpx;
+	left: 10rpx;
+}
+.rolsy-min-img {
+	min-height: 250rpx;
+	max-height: 250rpx;
+}
+.cu-dialog {
+	background-color: transparent;
+	/* width: 500rpx; */
+	/* height: 100%; */
+	height: 100%;
+	margin-top: 50%;
+}
+.rolsy-saoma-img {
+	width: 50%;
+	margin-top: 65%;
+}
+.rolsy-bg-saoma {
+	background-size: 85% !important;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.rolsy-x {
+	border: 1px solid #FFFFFF;
+	padding: 10rpx;
+	border-radius: 30rpx;
+	display: inline-block;
+	margin-top: 60rpx;
+}
+.rolsy-text-gr {
+	color: #a3a3a3;
+}
+.rolsy-gift-radius {
+	border-radius: 10rpx;
+}
+

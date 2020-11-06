@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/basics/home",
+    "pages/basics/promotion",
+    "pages/basics/noticelist",
+    "pages/basics/notice",
+    "pages/basics/todaymenu",
+    "pages/basics/rated",
+    "pages/basics/ratedindex",
+    "pages/basics/newfood",
+    "pages/basics/user",
+    "pages/basics/address",
+    "pages/basics/newaddress",
+    "pages/basics/more",
+    "pages/basics/details",
+    "pages/basics/conversion",
+    "pages/basics/menu",
+    "pages/basics/tomorrowmenu"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "阳光酒店食堂点评",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

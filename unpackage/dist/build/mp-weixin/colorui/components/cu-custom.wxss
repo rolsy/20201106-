@@ -1,0 +1,1 @@
+button::after{border:none}button{background-color:#fff}.cuIcon-myfill{border:1px solid #ffce42;border-radius:20px;padding:4px;color:#ffce42}.cu-custom{z-index:99999}

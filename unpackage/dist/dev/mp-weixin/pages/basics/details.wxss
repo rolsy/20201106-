@@ -1,0 +1,75 @@
+
+.rich_img {
+	max-width: 694rpx !important;
+}
+.page {
+	height: 92vh;
+}
+.js {
+	line-height: 57rpx;
+	margin-left: 17px;
+}
+.jifen {
+	color: red;
+	font-size: 35rpx;
+}
+.yuanjia {
+	color: #ccc;
+	font-size: 28rpx;
+	margin-left: 23rpx;
+	text-decoration: line-through;
+}
+.title {
+	font-size: 36rpx;
+}
+.type {
+	background-color: #fff;
+	padding: 16rpx 40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 30rpx;
+	border-top: 1rpx solid #eee;
+}
+.ty-title {
+	margin-left: 80rpx;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+	width: 511rpx;
+	font-size: 28rpx;
+}
+.guige {
+	margin-left: 97rpx;
+}
+#beizhu {
+	margin-top: 16rpx;
+	margin-bottom: 23rpx;
+}
+.spjs {
+	background: #fff;
+	text-align: center;
+	line-height: 50rpx;
+}
+.spjs-font {
+	padding-top: 31rpx;
+	font-size: 40rpx;
+}
+.spjs-en {
+	padding: 16rpx;
+	color: #eee;
+}
+.sku-page button {
+	background: #ffce43;
+	font-size: 34rpx;
+}
+.sku-btn {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+

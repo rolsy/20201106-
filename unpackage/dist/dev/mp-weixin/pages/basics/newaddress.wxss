@@ -1,0 +1,23 @@
+
+.page {
+	height: 92vh;
+}
+.rolsy-radio {
+	-webkit-transform: scale(0.6);
+	        transform: scale(0.6);
+}
+.rolsy-radio[checked] .wx-radio-input {
+	background-color: #FFCE43 !important;
+	border-color: #FFCE43 !important;
+	color: #ffffff !important;
+}
+.rolsy-mt {
+	margin-top: 5rpx;
+}
+.bg-rolsy-color1 {
+	background-color: #FED65D;
+}
+.rolsy-mr {
+	margin-right: 230rpx;
+}
+

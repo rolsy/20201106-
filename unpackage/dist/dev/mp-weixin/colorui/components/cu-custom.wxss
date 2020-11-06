@@ -1,0 +1,18 @@
+
+button::after{
+		border: none;
+		/* background-color: #FFFFFF; */
+}
+button{
+		background-color: #fff;
+}
+.cuIcon-myfill{
+	border: 1px solid #FFCE42;
+	border-radius: 20px;
+	padding: 4px;
+	color: #FFCE42;
+}
+.cu-custom{
+	z-index: 99999;
+}
+

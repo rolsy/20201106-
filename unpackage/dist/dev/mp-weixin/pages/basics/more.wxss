@@ -1,0 +1,28 @@
+
+.nav-title {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
+.page {
+	height: 92vh;
+}
+.rolsy-gift-img {
+	border-top-left-radius: 15rpx;
+	border-top-right-radius: 15rpx;
+}
+.rolsy-gift-content {
+	margin-top: -5rpx;
+	border-bottom-left-radius: 15rpx;
+	border-bottom-right-radius: 15rpx;
+}
+.rolsy-delete {
+	text-decoration: line-through;
+	color: #C8C8C8;
+	margin-left: 1rem;
+}
+.text-rolsy {
+	color: #FFCE42;
+}
+
